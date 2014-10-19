@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.33-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.33-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/org.restlet.ext.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/org.restlet.ext.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/org.restlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
