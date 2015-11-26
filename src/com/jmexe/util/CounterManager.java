@@ -6,7 +6,6 @@ import java.sql.*;
  * Created by Jmexe on 10/10/14.
  */
 public class CounterManager {
-    //private static String db_url = "jdbc:mysql://203.195.159.116:3306/util";
     private static String db_url = "jdbc:mysql://localhost:3306/util";
     private static String user = "root";
     private static String password = "wtsql2014";
